@@ -6,8 +6,10 @@
 }
 
 body {
-  background: rgba(0, 0, 0, 0.7) url('img/starfall2.gif');
-  background-blend-mode: darken;
+  background: rgba(0, 0, 0, 0.7) url('img/art.gif');
+  background-blend-mode: soft-light;
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -36,7 +38,7 @@ body {
   height: 290px;
   border-radius: 50%;
   display: flex;
-  background: linear-gradient(180deg,rgb(115, 0, 255),rgb(4, 192, 212));
+  background: linear-gradient(180deg,rgb(47, 1, 103),rgb(4, 192, 212));
   align-items: center;
   justify-content: center;
 }
