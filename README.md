@@ -28,3 +28,4 @@ Enjoy tracking time with this stopwatch! 🕰️
 ## Screenshots
 
 
+![Screenshot 2024-01-19 232408](https://github.com/Tusharbhosalehub/PRODIGY_WD_02/assets/114877970/418d6e2d-03b9-406d-9d50-90d07a8926d2)
