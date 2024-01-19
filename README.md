@@ -25,3 +25,6 @@ Feel free to contribute to the project by suggesting improvements, reporting iss
 
 Enjoy tracking time with this stopwatch! 🕰️
 
+## Screenshots
+
+
