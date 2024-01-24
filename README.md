@@ -12,7 +12,6 @@ The application is designed to work seamlessly across various devices, providing
 
 ## How to Use
 * Start/Stop Button: Click the 'Start/Stop' button to initiate or pause the stopwatch.
-
 * Reset Button: The 'Reset' button allows you to reset the stopwatch to zero.
 
 ## Technologies Used
