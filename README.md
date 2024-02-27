@@ -1,5 +1,5 @@
 
-# Stopwatch ⌛
+# Stopwatch Pro⌛
 ## Overview
 This project is a simple yet elegant stopwatch application built using HTML, CSS, and JavaScript. It provides users with a clean and intuitive interface to track time with precision. Whether you need to measure intervals, time your workouts, or manage tasks efficiently, this stopwatch has got you covered.
 
