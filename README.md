@@ -22,7 +22,7 @@ The application is designed to work seamlessly across various devices, providing
 ## Contribution
 Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests. Your feedback and contributions are highly appreciated!
 
-Enjoy tracking time with this stopwatch! 🕰️
+Enjoy tracking time with this stopwatch!  🕰️
 
 ## Screenshots
 
