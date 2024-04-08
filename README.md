@@ -8,7 +8,7 @@ User-Friendly Interface: The stopwatch features a sleek and user-friendly design
 Precision Timing: Built with JavaScript, the stopwatch ensures accurate timing, allowing users to keep track of even the most precise intervals.
 
 ## Responsive Design:
-The application is designed to work seamlessly across various devices, providing a consistent experience on desktops, tablets, and mobile phones.
+The application is designed to work seamlessly across various devices, providing a consistent experience on desktops, tablets,and mobile phones.
 
 ## How to Use
 * Start/Stop Button: Click the 'Start/Stop' button to initiate or pause the stopwatch.
