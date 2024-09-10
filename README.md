@@ -17,7 +17,8 @@ The application is designed to work seamlessly across various devices, providing
 ## Technologies Used
 * HTML: Structure of the webpage.
 * CSS: Styling and layout of the stopwatch interface.
-* JavaScript : Logic and functionality of the stopwatch.
+* JavaScript : Logic and functionality of the stopwatch
+  
 
 ## Contribution
 Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests. Your feedback and contributions are highly appreciated!
